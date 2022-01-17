@@ -1,0 +1,35 @@
+.button {
+    margin: 5px;
+    width: 50px;
+    height: 30px;
+    background: #b7fffa;
+    color: dimgrey;
+    border-radius: 10px;
+    border-color: blue;
+    outline: none;
+}
+
+.active {
+    margin: 5px;
+    width: 50px;
+    height: 30px;
+    color: dimgrey;
+    border-radius: 10px;
+    border-color: blue;
+    background: gold;
+}
+.name{
+    color: indigo;
+}
+.affair{
+    display: flex;
+}
+.NIGH{
+    color: red;
+}
+.MIDDLE{
+    color: chartreuse;
+}
+.LOW{
+    color: royalblue;
+}

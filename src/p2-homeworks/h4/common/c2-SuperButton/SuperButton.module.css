@@ -1,0 +1,45 @@
+@keyframes bounce {
+    0%, 20%, 60%, 100% {
+        transform: translateY(0);
+    }
+
+    40% {
+        transform: translateY(-20px);
+    }
+
+    80% {
+        transform: translateY(-10px);
+
+    }
+}
+
+.default {
+    background: #6bf33d;
+    border-color: gold;
+    border-radius: 5px;
+    height: 30px;
+    width: 70px;
+}
+
+.red {
+    background: #ff951c;
+    border-color: gold;
+    border-radius: 5px;
+    height: 30px;
+    width: 70px;
+}
+
+.default:disabled {
+    background: #f3d0bb;
+}
+
+.initialButton {
+    cursor: pointer;
+    margin: 1%;
+    text-align: center;
+}
+
+.initialButton:hover {
+    animation: bounce 2s;
+}
+

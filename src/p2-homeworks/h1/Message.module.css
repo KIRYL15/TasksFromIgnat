@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.messageStyle {
+    display: flex;
+    padding: 10px;
+    max-width: 400px;
+    margin: 15px 30px;
+    border-radius: 10px;
+}
+
+.imgBlock {
+    display: flex;
+    width: 110px;
+    justify-content: start;
+    align-items: end;
+}
+
+.gomer {
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+
+}
+
+.window {
+    border-radius: 5px 5px 5px 0px;
+
+    padding: 5px 20px;
+    background-color: black;
+    color: white;
+    position: relative;
+    opacity: 0.7;
+}
+
+.window:before, .window:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 25px;
+}
+
+.window:before {
+    left: -15px;
+    width: 25px;
+    background-color: black;
+}
+
+.window:after {
+    left: -15px;
+    width: 15px;
+    background-color: rgba(255,255,255,255);
+    border-bottom-right-radius: 17px;
+}
+
+
+
+.message {
+    font-size: 17px;
+    font-weight: normal;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+}
+.name {
+    color: blueviolet;
+    text-align: start;
+}
+
+.time {
+    color: green;
+    text-align: end;
+}
+
+
+/*.window:before, .text:after {*/
+/*    right: 100%;*/
+/*    content: "";*/
+/*    bottom: 0;*/
+/*    height: 25px;*/
+/*}*/
+
+/*.window:before {*/
+/*    left: -15px;*/
+/*    width: 25px;*/
+/*    background-color: #3d5870;*/
+/*}*/
+
+/*.window:after {*/
+/*    left: -15px;*/
+/*    width: 15px;*/
+/*    background-color: #b7fffa;*/
+/*    border-bottom-right-radius: 17px;*/
+/*}*/
+
+
+
+
+
+
+
+
+
