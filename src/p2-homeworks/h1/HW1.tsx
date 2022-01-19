@@ -11,7 +11,7 @@ const messageData = {
 }
 
 
-export function HW1() {
+ function HW1() {
     return (
         <div>
             <hr/>
@@ -33,4 +33,5 @@ export function HW1() {
         </div>
     )
 }
+export default HW1
 
