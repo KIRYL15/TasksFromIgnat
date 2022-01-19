@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176b62cd-10f2-4414-b1a3-ad228da994e5" name="Default Changelist" comment="HashRouter">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="176b62cd-10f2-4414-b1a3-ad228da994e5" name="Default Changelist" comment="Ignore /.idea">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +145,7 @@
       <workItem from="1642446664777" duration="7917000" />
       <workItem from="1642455259141" duration="2017000" />
       <workItem from="1642520846815" duration="12812000" />
-      <workItem from="1642605826617" duration="7431000" />
+      <workItem from="1642605826617" duration="8167000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1642454947398</created>
@@ -184,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642618583264</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ignore /.idea">
+      <created>1642621204920</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642621204920</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +224,8 @@
     <MESSAGE value="Routes" />
     <MESSAGE value="Deplay" />
     <MESSAGE value="HashRouter" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashRouter" />
+    <MESSAGE value="Ignore /.idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ignore /.idea" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
