@@ -1,0 +1,11 @@
+.span{
+    color: #b0072a;
+    display: inline-block;
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    text-align: center;
+    border-color: #6bf33d;
+    background-color: #83bbef;
+    border-radius: 20px;
+}
